@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/JavaScriptClassifier/static/css/main.1359096b.chunk.css",
+    "main.css": "/JavaScriptClassifier/static/css/main.6dea0f05.chunk.css",
     "main.js": "/JavaScriptClassifier/static/js/main.ced7ef9d.chunk.js",
+    "main.js.map": "/JavaScriptClassifier/static/js/main.ced7ef9d.chunk.js.map",
     "runtime-main.js": "/JavaScriptClassifier/static/js/runtime-main.f83d51a3.js",
+    "runtime-main.js.map": "/JavaScriptClassifier/static/js/runtime-main.f83d51a3.js.map",
     "static/js/2.aa621403.chunk.js": "/JavaScriptClassifier/static/js/2.aa621403.chunk.js",
+    "static/js/2.aa621403.chunk.js.map": "/JavaScriptClassifier/static/js/2.aa621403.chunk.js.map",
     "static/js/3.4cb35195.chunk.js": "/JavaScriptClassifier/static/js/3.4cb35195.chunk.js",
+    "static/js/3.4cb35195.chunk.js.map": "/JavaScriptClassifier/static/js/3.4cb35195.chunk.js.map",
     "index.html": "/JavaScriptClassifier/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/JavaScriptClassifier/static/css/main.6dea0f05.chunk.css.map",
     "static/js/2.aa621403.chunk.js.LICENSE.txt": "/JavaScriptClassifier/static/js/2.aa621403.chunk.js.LICENSE.txt",
     "static/media/Happy_Sugar_Life9v9_out10.onnx": "/JavaScriptClassifier/static/media/Happy_Sugar_Life9v9_out10.b71c9c34.onnx"
   },
   "entrypoints": [
     "static/js/runtime-main.f83d51a3.js",
     "static/js/2.aa621403.chunk.js",
-    "static/css/main.1359096b.chunk.css",
+    "static/css/main.6dea0f05.chunk.css",
     "static/js/main.ced7ef9d.chunk.js"
   ]
 }
