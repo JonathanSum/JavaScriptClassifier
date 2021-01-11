@@ -8,9 +8,8 @@
 
 
 
-[Credit for code](https://microsoft.github.io/onnxjs-demo/#/)<br>
-![image](https://microsoft.github.io/onnxjs-demo/img/resnet50.97b323dc.png)<br>
 Credit and Project inspired, learned from :
+https://github.com/shiffman/Tensorflow-JS-Examples
 https://www.youtube.com/watch?v=Ij5MoUnLQ0E&t=1786s
 https://github.com/tensorflow/tfjs-examples
 https://github.com/microsoft/onnxjs
