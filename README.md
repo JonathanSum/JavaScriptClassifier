@@ -7,7 +7,7 @@
 
 
 
-Learn to how to do it: 
+
 [Credit for code](https://microsoft.github.io/onnxjs-demo/#/)<br>
 ![image](https://microsoft.github.io/onnxjs-demo/img/resnet50.97b323dc.png)<br>
 Credit and Project inspired, learned from :
