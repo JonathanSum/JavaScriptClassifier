@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/21982975/102702867-666eff80-421c-11eb-823a-23d9042e6e67.png)<br>
 
 Credit and Project inspired, learned from :
+https://www.youtube.com/watch?v=Ij5MoUnLQ0E&t=1786s
 https://github.com/tensorflow/tfjs-examples
 https://github.com/microsoft/onnxjs
 https://heartbeat.fritz.ai/building-an-image-recognition-app-using-onnx-js-c7147f4f291b
