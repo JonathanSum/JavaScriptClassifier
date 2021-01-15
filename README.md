@@ -8,6 +8,7 @@
 
 
 
+Dataset, image were from Happy Sugar Life Anime!
 Credit and Project inspired, learned from :
 https://github.com/shiffman/Tensorflow-JS-Examples
 https://www.youtube.com/watch?v=Ij5MoUnLQ0E&t=1786s
