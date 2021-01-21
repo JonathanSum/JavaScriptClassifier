@@ -1,4 +1,5 @@
 [Click me to see my project](https://jonathansum.github.io/JavaScriptClassifier/)<br>
+Direction is in below<br>
 
 ![image](https://raw.githubusercontent.com/JonathanSum/JonathanSum/master/hsl_p1.gif)<br>
 ![image](https://user-images.githubusercontent.com/21982975/102702864-5fe08800-421c-11eb-9c2c-eaf492c253de.png)
