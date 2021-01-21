@@ -6,9 +6,10 @@
 ![image](https://user-images.githubusercontent.com/21982975/102702866-653dd280-421c-11eb-88a2-b308f646fdf8.png)
 ![image](https://user-images.githubusercontent.com/21982975/102702867-666eff80-421c-11eb-823a-23d9042e6e67.png)<br>
 If you want to try, directions:<br>
-It classifiers the characters from the Happy Sugar Life.<br>
-They are Sato, Shio, Shouko, and other ten chracrters. The dataset was tiny and was trained in an hour.<br>
-Thus, please focus testing on Sato, Shio, and Shouko.<br> But you can still try other then characters.<br>
+It classifies the characters from the Happy Sugar Life.<br>
+They are Sato, Shio, Shouko, and other ten characters. The dataset was tiny and was trained in an hour.<br>
+Thus, please focus testing on Sato, Shio, and Shouko.<br>
+But you can still try other ten.<br>
 
 
 
