@@ -29,5 +29,5 @@ https://github.com/jorgemcdev/react-tensorflowjs
 
 
 
-Side story: some people love to say they are smart and building some super adanveced model for their future six figure salary. But I am different. I just want to build a model on stuff about love💘💖💗💓 like how Kafka writes his books. 
+Side story: some people love to say they are smart and building some super-advanced model for their future six-figure salary. But I am different. I just want to build a model on stuff about loveHeart with arrowSparkling heartGrowing heartBeating heart like how Kafka writes his books.
 
