@@ -11,23 +11,24 @@ It classifies the characters from the Happy Sugar Life.<br>
 They are Sato, Shio, Shouko, and other ten characters. The dataset was tiny and was trained in an hour.<br>
 Thus, please focus testing on Sato, Shio, and Shouko.<br>
 But you can still try other ten.<br>
-
-
-
+<br>
+<br>
+<br>
 Credit for Dataset, image: They were from Happy Sugar Life Anime!<br> 
 Happy Sugar Life is one of my favorite anime that reflects some views of reality. For example, the female character was born without parents. She has been trying to understand what love is. At the end, she found it. But she losed a lot in between. She also losed herself at the very end because she has done many bad things.
-Credit and Project inspired, learned from :
-https://github.com/shiffman/Tensorflow-JS-Examples
-https://www.youtube.com/watch?v=Ij5MoUnLQ0E&t=1786s
-https://github.com/tensorflow/tfjs-examples
-https://github.com/microsoft/onnxjs
-https://heartbeat.fritz.ai/building-an-image-recognition-app-using-onnx-js-c7147f4f291b
-https://github.com/davidpfahler/react-ml-app
-https://github.com/shiffman/Tensorflow-JS-Examples
-https://github.com/ksachdeva/tfjs-react
-https://github.com/jorgemcdev/react-tensorflowjs
+Credit and Project inspired, learned from :<br>
+https://github.com/shiffman/Tensorflow-JS-Examples<br>
+https://www.youtube.com/watch?v=Ij5MoUnLQ0E&t=1786s<br>
+https://github.com/tensorflow/tfjs-examples<br>
+https://github.com/microsoft/onnxjs<br>
+https://heartbeat.fritz.ai/building-an-image-recognition-app-using-onnx-js-c7147f4f291b<br>
+https://github.com/davidpfahler/react-ml-app<br>
+https://github.com/shiffman/Tensorflow-JS-Examples<br>
+https://github.com/ksachdeva/tfjs-react<br>
+Fastai<br>
+https://github.com/jorgemcdev/react-tensorflowjs<br>
 
 
 
-Side story: some people love to say they are smart and building some super-advanced model for their future six-figure salary. But I am different. I just want to build a model on stuff about loveHeart with arrowSparkling heartGrowing heartBeating heart like how Kafka writes his books.
+Side story: some people love to say they are smart and building some super-advanced model for their future six-figure salary. But I am different. I just want to build a model on stuff about loveHeart with arrowSparkling heartGrowing heartBeating heart like how Kafka writes his books.<br>
 
