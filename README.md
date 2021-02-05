@@ -25,10 +25,9 @@ https://heartbeat.fritz.ai/building-an-image-recognition-app-using-onnx-js-c7147
 https://github.com/davidpfahler/react-ml-app<br>
 https://github.com/shiffman/Tensorflow-JS-Examples<br>
 https://github.com/ksachdeva/tfjs-react<br>
-Fastai<br>
+https://github.com/fastai<br>
 https://github.com/jorgemcdev/react-tensorflowjs<br>
 
 
 
-Side story: some people love to say they are smart and building some super-advanced model for their future six-figure salary. But I am different. I just want to build a model on stuff about loveHeart with arrowSparkling heartGrowing heartBeating heart like how Kafka writes his books.<br>
 
