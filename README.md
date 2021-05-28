@@ -5,7 +5,8 @@ Direction is in below<br>
 ![image](https://user-images.githubusercontent.com/21982975/102702864-5fe08800-421c-11eb-9c2c-eaf492c253de.png)
 ![image](https://user-images.githubusercontent.com/21982975/102702865-640ca580-421c-11eb-8527-3dfc7592d1cb.png)
 ![image](https://user-images.githubusercontent.com/21982975/102702866-653dd280-421c-11eb-88a2-b308f646fdf8.png)
-![image](https://user-images.githubusercontent.com/21982975/102702867-666eff80-421c-11eb-823a-23d9042e6e67.png)<br>
+<img src="https://github.com/JonathanSum/JavaScriptClassifier/blob/main/p1.png?raw=trueraw=true" width="70%" >
+<br>
 If you want to try, directions:<br>
 It classifies the characters from the Happy Sugar Life.<br>
 They are Sato, Shio, Shouko, and other ten characters. The dataset was tiny and was trained in an hour.<br>
