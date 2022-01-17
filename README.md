@@ -17,12 +17,7 @@ But you can still try other ten.<br>
 <br>
 Credit for Dataset, image: They were from Happy Sugar Life Anime!<br> 
 Happy Sugar Life is one of my favorite anime that reflects some views of reality. For example, the female character was born without parents. She has been trying to understand what love is. At the end, she found it. But she losed a lot in between. She also losed herself at the very end because she has done many bad things.
-Credit and Project inspired, learned from :<br>
-https://github.com/shiffman/Tensorflow-JS-Examples<br>
-https://github.com/tensorflow/tfjs-examples<br>
-https://github.com/shiffman/Tensorflow-JS-Examples<br>
-https://github.com/ksachdeva/tfjs-react<br>
-https://github.com/jorgemcdev/react-tensorflowjs<br>
+
 
 
 
